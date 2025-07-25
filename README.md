@@ -1,28 +1,51 @@
-# 🌥️ Google Cloud Arcade Facilitator 2025 – by Cyril
+# ☁️ Cyril's Google Cloud Arcade 2025 Journey
 
-Ini adalah dokumentasi pribadi saya selama mengikuti program **Google Cloud Arcade Facilitator 2025**.
+Hey there! 👋  
+This is my personal journey through the **Google Cloud Arcade Facilitator 2025** program. I’m exploring cloud technologies, security, and compliance through hands-on labs, trivia challenges, and arcade games — all while building up real XP and earning awesome badges.
+ 
 
-## 📅 Timeline & Progress
+This repo is my weekly **progress log**, XP tracker, and badge collector — all in one!
 
-| Minggu | Trivia | Quest | Badge | XP |
-|--------|--------|-------|--------|----|
-| Week 1 (22–28 Jul) | ✅ | ✅ (Security & IAM) | 🎖️ 2 | ±1300 |
-| Week 2 (29–4 Agt) | ⏳ | ⏳ | – | – |
-| Week 3 (5–11 Agt) | – | – | – | – |
-| Week 4 (12–18 Agt) | – | – | – | – |
-| Week 5 (19–25 Agt) | – | – | – | – |
-| Week 6 (26–1 Sep) | – | – | – | – |
-| Week 7 (2–8 Sep) | – | – | – | – |
-| Week 8 (9–16 Sep) | – | – | – | – |
+---
 
-## 🎯 Target Akhir
-- ✅ 8 Trivia Mingguan
-- ✅ 8–10 Skill Badge
-- ✅ >6000 XP
-- ✅ Dapat Sertifikat GCAF 2025
+## 🎯 Goals
 
-## 📸 Screenshot & Log
-Setiap minggu, saya akan upload:
-- Screenshot hasil lab (score 100%)
-- Badge yang didapat
-- Ringkasan lab di file `.md` atau `.txt`
+✅ Focus on Cloud Security / Compliance career  
+✅ Earn relevant badges with high XP  
+✅ Actively complete Trivia & Arcade Games every week  
+✅ Maximize lab credits and free quests  
+✅ Keep a clean learning log for portfolio + career prep  
+
+---
+
+## 📅 Weekly Progress & Milestones
+
+> 🗓️ July 22 – September 16, 2025 (8 Weeks)  
+> Logs & screenshots stored per week.
+
+| Week | Date              | Focus Summary                                 | Trivia ✅ | Badge 🎖️        | GitHub Log |
+|------|-------------------|-----------------------------------------------|----------|------------------|------------|
+| 1    | Jul 22 – Jul 28   | Start Trivia + Security & Identity Labs       | ✅ Week 1 | In progress       | [Week 1 Log](./week-01/log.md) |
+| 2    | Jul 29 – Aug 4    | Finish Badge 1 + start Cloud Essentials Game  | 🔜 Week 2 | Badge #1 Target   | 🔜 Soon |
+| 3    | Aug 5 – Aug 11    | Begin Cloud Essentials Badge (6 labs)         | 🔜 Week 3 | Badge #2 Target   | 🔜 Soon |
+| 4    | Aug 12 – Aug 18   | Complete Cloud Essentials + Monitoring Labs   | 🔜 Week 4 | Badge #3 Target   | 🔜 Soon |
+| 5    | Aug 19 – Aug 25   | Start Security / Networking or Cloud Ops      | 🔜 Week 5 | Badge #4 Target   | 🔜 Soon |
+| 6    | Aug 26 – Sep 1    | Choose 1 Favorite Badge (AI/Data/Security)    | 🔜 Week 6 | Badge #5 Target   | 🔜 Soon |
+| 7    | Sep 2 – Sep 8     | Badge Catch-up + XP Boost from Arcade Games   | 🔜 Week 7 | Badge #6 Target   | 🔜 Soon |
+| 8    | Sep 9 – Sep 16    | Finalize All Badges + Upload All Logs         | 🔜 Week 8 | Wrap-up & Summary | 🔜 Soon |
+
+---
+
+## 🏆 Leaderboard Status (as of July 24, 2025)
+
+| Metric              | Value                     |
+|---------------------|---------------------------|
+| 🎮 Arcade Username   | `ciril` (me)              |
+| 🌍 Global XP Total   | **47,022,890 XP**         |
+| 🥇 Global Rank       | **#8469**                 |
+| 🧠 Trivia            | ✅ Week 1                 |
+| 🏅 Badge             | *None yet* (coming soon) |
+
+> ✅ Will update this table each week with new XP, rank, and badge status.
+
+---
