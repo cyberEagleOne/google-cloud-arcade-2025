@@ -25,7 +25,7 @@ This repo is my weekly **progress log**, XP tracker, and badge collector — all
 
 | Week | Date              | Focus Summary                                 | Trivia ✅ | Badge 🎖️        | GitHub Log |
 |------|-------------------|-----------------------------------------------|----------|------------------|------------|
-| 1    | Jul 22 – Jul 28   | Start Trivia + Security & Identity Labs       | ✅ Week 1 | In progress       | [Week 1 Log](./week-01/log.md) |
+| 1    | Jul 22 – Jul 28   | Start Trivia + Security & Identity Labs       | ✅ Week 1 | In progress       | [Week 1 Log](./week-01) |
 | 2    | Jul 29 – Aug 4    | Finish Badge 1 + start Cloud Essentials Game  | 🔜 Week 2 | Badge #1 Target   | 🔜 Soon |
 | 3    | Aug 5 – Aug 11    | Begin Cloud Essentials Badge (6 labs)         | 🔜 Week 3 | Badge #2 Target   | 🔜 Soon |
 | 4    | Aug 12 – Aug 18   | Complete Cloud Essentials + Monitoring Labs   | 🔜 Week 4 | Badge #3 Target   | 🔜 Soon |
@@ -36,15 +36,17 @@ This repo is my weekly **progress log**, XP tracker, and badge collector — all
 
 ---
 
-## 🏆 Leaderboard Status (as of July 24, 2025)
+### 🏆 Leaderboard Status (as of July 25, 2025)
 
-| Metric              | Value                     |
-|---------------------|---------------------------|
-| 🎮 Arcade Username   | `ciril` (me)              |
-| 🌍 Global XP Total   | **47,022,890 XP**         |
-| 🥇 Global Rank       | **#8469**                 |
-| 🧠 Trivia            | ✅ Week 1                 |
-| 🏅 Badge             | *None yet* (coming soon) |
+| Metric              | Value                 |
+|---------------------|-----------------------|
+| Arcade Username     | `ciril`               |
+| Global Rank         | #8242                 |
+| Global XP           | 80,141,565 XP         |
+| Trivia Week 1       | ✅ 3/4 Labs Completed |
+| Badges Earned       | _(pending 1 more)_    |
+| League Standing     | 10th – Bronze League  |
+| Promotion Status    | 🟢 Silver League Promo|
 
 > ✅ Will update this table each week with new XP, rank, and badge status.
 
