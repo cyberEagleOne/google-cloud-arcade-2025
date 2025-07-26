@@ -41,8 +41,8 @@ If you ever had an experience in mySQL than you'll get a basic understanding in 
 | Metric              | Value                 |
 |---------------------|-----------------------|
 | Arcade Username     | `ciril`               |
-| Global Rank         | #8242                 |
-| Global XP           | 80,141,565 XP         |
+| Global Trivia week 1 Rank         | #8242                 |
+| Global Trivia week 1 XP           | 80,141,565 XP         |
 | Trivia Week 1       | ✅ 3/4 Labs Completed |
 | Badges Earned       | _(pending 1 more)_    |
 | League Standing     | 10th – Bronze League  |
