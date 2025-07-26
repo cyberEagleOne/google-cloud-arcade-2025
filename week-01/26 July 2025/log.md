@@ -49,8 +49,8 @@ Even though it was a quiz, I felt like this was a recap of everything I had touc
 | Metric              | Value                    |
 |---------------------|--------------------------|
 | Arcade Username     | `ciril`                  |
-| Global Rank         | **#8242**                 |
-| Global XP           | **80,141,565 XP**        |
+| Global Trivia week 1 Rank         | **#8242**                 |
+| Global Trivia week 1 XP           | **80,141,565 XP**        |
 | Trivia Week 1       | ✅ Completed (4/4 Labs)  |
 | Badges Earned       | 🏅 Week 1 Trivia Badge   |
 | League Standing     | 11th – Bronze League     |
