@@ -39,7 +39,7 @@ This was my favorite so far — I saw unstructured documents transformed into us
 | Metric              | Value                 |
 |---------------------|-----------------------|
 | Arcade Username     | `ciril`               |
-| Global Rank         | #8469                 |
-| Global Point        | 450 points            |
+| Global Trivia week 1 Rank         | #8469                 |
+| Global Trivia week 1 Point        | 450 points            |
 | Trivia XP           | 47,022,890 XP         |
 | Trivia Week 1       | ✅ 2/4 Labs Completed |
