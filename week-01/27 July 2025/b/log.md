@@ -52,7 +52,7 @@ This lab was very practical. It felt like setting up my own personal drive, but 
 | Metric              | Value                    |
 |---------------------|--------------------------|
 | Arcade Username     | `ciril`                  |
-| Global Arcade Games lvl 1 Rank         | **#6561**                 |
+| Global Arcade Games lvl 1 Rank         | **#6563**                 |
 | Global Arcade Games lvl 1 XP           | **58,035,714 XP**        |
 | Arcade Games lvl 1       | ✅ Completed (2/12 Labs)  |
 | Trivia Week 1       | ✅ Completed (4/4 Labs)  |
