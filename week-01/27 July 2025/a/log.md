@@ -53,15 +53,15 @@ This was my first real hands-on experience with Compute Engine and the gcloud CL
 
 ---
 
-## 🏆 Leaderboard Status (as of July 26, 2025)
+## 🏆 Leaderboard Status (as of July 27, 2025)
 
 | Metric              | Value                    |
 |---------------------|--------------------------|
 | Arcade Username     | `ciril`                  |
-| Global Trivia week 1 Rank         | **#6689**                 |
-| Global Trivia week 1 XP           | **26,785,714 XP**        |
-| Trivia Week 1       | ✅ Completed (4/4 Labs)  |
+| Global Arcade Games lvl 1 Rank         | **#6689**                 |
+| Global Arcade Games lvl 1              | **26,785,714 XP**        |
 | Arcade Games 1       | ✅ Completed (1/12 Labs)  |
+| Trivia Week 1       | ✅ Completed (4/4 Labs)  |
 | Badges Earned       | 🏅 Week 1 Trivia Badge   |
 | League Standing     | 11th – Bronze League (832 pts)|
 | Promotion Status    | 🟢 Needs to be at least top 10 to be promoted     |
