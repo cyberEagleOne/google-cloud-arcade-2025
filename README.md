@@ -45,7 +45,7 @@ This repo is my weekly **progress log**, XP tracker, and badge collector — all
 | Global Arcade Games lvl 1 XP           | **169,478,393 XP**      |
 | Arcade Games lvl 1       | ✅ Completed (5/12 Labs)  |
 | Trivia Week 1       | ✅ Completed (4/4 Labs)  |
-| Badges Earned       | 🏅 Week 1 Trivia Badge   |
+| Badges Earned       | [🏅 Week 1 Trivia Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9635-d49fa00793da/badges/17140064)   |
 | League Standing     | 5th – Bronze League (1406 pts)|
 | Promotion Status    | 🟢 Silver League Promo |
 
