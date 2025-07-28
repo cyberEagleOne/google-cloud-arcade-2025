@@ -36,18 +36,18 @@ This repo is my weekly **progress log**, XP tracker, and badge collector — all
 
 ---
 
-### 🏆 Leaderboard Status (as of July 28, 2025)
+## 🏆 Leaderboard Status (as of July 28, 2025)
 
 | Metric              | Value                    |
 |---------------------|--------------------------|
 | Arcade Username     | `ciril`                  |
-| Global Arcade Games lvl 1 Rank         | **#6383**                 |
-| Global Arcade Games lvl 1 XP           | **96,585,421 XP**        |
-| Arcade Games lvl 1       | ✅ Completed (4/12 Labs)  |
+| Global Arcade Games lvl 1 Rank         | **#6159**                 |
+| Global Arcade Games lvl 1 XP           | **169,478,393 XP**      |
+| Arcade Games lvl 1       | ✅ Completed (5/12 Labs)  |
 | Trivia Week 1       | ✅ Completed (4/4 Labs)  |
 | Badges Earned       | 🏅 Week 1 Trivia Badge   |
-| League Standing     | 7th – Bronze League (1279 pts)|
-| Promotion Status    | ⚪️ Stable                |
+| League Standing     | 5th – Bronze League (1406 pts)|
+| Promotion Status    | 🟢 Silver League Promo |
 
 > ✅ Will update this table each week with new XP, rank, and badge status.
 
