@@ -23,16 +23,16 @@ This repo is my weekly **progress log**, XP tracker, and badge collector — all
 > 🗓️ July 22 – September 16, 2025 (8 Weeks)  
 > Logs & screenshots stored per week.
 
-| Week | Date              | Focus Summary                                 | Trivia ✅ | Badge 🎖️        | GitHub Log |
+| Week | Date              | Focus Summary                                 | Progress ✅ | Badge 🎖️        | GitHub Log |
 |------|-------------------|-----------------------------------------------|----------|------------------|------------|
-| 1    | Jul 22 – Jul 28   | Start Trivia + Security & Identity Labs       | ✅ Week 1 | In progress       | [Week 1 Log](./week-01) |
-| 2    | Jul 29 – Aug 4    | Finish Badge 1 + start Cloud Essentials Game  | 🔜 Week 2 | Badge #1 Target   | 🔜 Soon |
-| 3    | Aug 5 – Aug 11    | Begin Cloud Essentials Badge (6 labs)         | 🔜 Week 3 | Badge #2 Target   | 🔜 Soon |
-| 4    | Aug 12 – Aug 18   | Complete Cloud Essentials + Monitoring Labs   | 🔜 Week 4 | Badge #3 Target   | 🔜 Soon |
-| 5    | Aug 19 – Aug 25   | Start Security / Networking or Cloud Ops      | 🔜 Week 5 | Badge #4 Target   | 🔜 Soon |
-| 6    | Aug 26 – Sep 1    | Choose 1 Favorite Badge (AI/Data/Security)    | 🔜 Week 6 | Badge #5 Target   | 🔜 Soon |
-| 7    | Sep 2 – Sep 8     | Badge Catch-up + XP Boost from Arcade Games   | 🔜 Week 7 | Badge #6 Target   | 🔜 Soon |
-| 8    | Sep 9 – Sep 16    | Finalize All Badges + Upload All Logs         | 🔜 Week 8 | Wrap-up & Summary | 🔜 Soon |
+| 1    | Jul 22 – Jul 27   | Start and Finish Trivia week 1 and get the badge       | ✅ Week 1 |  🏅 Week 1 Trivia Badge     | [Week 1 Log](./week-01) |
+| 2    | Jul 28 – Aug 3    | Start and Finish Trivia week 2  + Arcage Game lvl 1-2 | 🔜 Week 2 | In Progress  |  [Week 2 Log](./week-02)  |
+| 3    | Aug 4 – Aug 10    | Start and Finish Trivia week 3   + Arcage Game lvl 3-4 | 🔜 Week 3 | Badge #2 Target   | 🔜 Soon |
+| 4    | Aug 11 – Aug 17   |  Start and Finish Trivia week 4   + Arcage Game lvl 5-6   | 🔜 Week 4 | Badge #3 Target   | 🔜 Soon |
+| 5    | Aug 18 – Aug 24   | Start Security / Networking or Cloud Ops      | 🔜 Week 5 | Badge #4 Target   | 🔜 Soon |
+| 6    | Aug 25 – Aug 31    | Choose 1 Favorite Badge (AI/Data/Security)    | 🔜 Week 6 | Badge #5 Target   | 🔜 Soon |
+| 7    | Sep 1 – Sep 7     | Badge Catch-up + XP Boost from Arcade Games   | 🔜 Week 7 | Badge #6 Target   | 🔜 Soon |
+| 8    | Sep 8 – Sep 16    | Finalize All Badges + Upload All Logs         | 🔜 Week 8 | Wrap-up & Summary | 🔜 Soon |
 
 ---
 
