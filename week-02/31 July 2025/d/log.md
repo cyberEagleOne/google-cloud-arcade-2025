@@ -1,4 +1,4 @@
-## 📅 August 1, 2025
+## 📅 July 31, 2025
 
 ---
 
@@ -6,7 +6,7 @@
 **Rate Limiting with Cloud Armor**
 
 📆 Date Completed:  
-**August 1, 2025**
+**July 31, 2025**
 
 🔍 Objective:  
 To learn how to protect a global HTTP(S) Load Balancer from denial-of-service (DoS) attacks and other abusive traffic by configuring and applying a Cloud Armor rate-limiting policy.
@@ -53,7 +53,7 @@ This lab was an excellent, hands-on demonstration of network edge security. It f
 
 ---
 
-## 🏆 Leaderboard Status (as of August 1, 2025)
+## 🏆 Leaderboard Status (as of July 31, 2025)
 
 | Metric              | Value                    |
 |---------------------|--------------------------|
