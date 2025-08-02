@@ -61,7 +61,7 @@ This lab was incredibly powerful. It showed me how to go beyond just passively l
 | **---IN PROGRESS---** |                                                                                                                                                                   |
 | Trivia Week 2               | ✅ Completed (2/3 Labs)                                                                                                                                           |
 | Global Trivia Week 2 Rank   | **#8798** |
-| Global Trivia Week 2 XP     | **48,483,791 XP** |
+| Global Trivia Week 2 XP     | **48,403,791 XP** |
 | **---OVERALL---** |                                                                                                                                                                   |
 | Badges Earned               | [🏅 Week 1 Trivia Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9635-d49fa00793da/badges/17140064), [🏆 Level 1 Game Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9635-d49fa00793da/badges/17245038) |
 | League Standing             | 7th – Silver League (1290 pts)                                                                                                                                    |
