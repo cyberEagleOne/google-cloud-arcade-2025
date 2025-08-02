@@ -34,21 +34,20 @@ This repo is my weekly **progress log**, XP tracker, and badge collector—all i
 
 ---
 
-## 🏆 Leaderboard Status (as of August 2, 2025)
+# 🏆 Leaderboard Status (as of August 2, 2025)
 
-| Metric                      | Value                                                                                                                                                             |
-| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Arcade Username** | `ciril`                                                                                                                                                           |
-| **---COMPLETED---** |                                                                                                                                                                   |
-| Arcade Games lvl 1          | ✅ **Finished (12/12 Labs)** 🎉                                                                                                                                   |
-| Trivia Week 1               | ✅ **Finished (4/4 Labs)** 🎉                                                                                                                                     |
-| **---IN PROGRESS---** |                                                                                                                                                                   |
-| Trivia Week 2               | ✅ Completed (2/4 Labs)                                                                                                                                           |
-| Global Trivia Week 2 Rank   | **#8798** |
-| Global Trivia Week 2 XP     | **48,483,791 XP** |
-| **---OVERALL---** |                                                                                                                                                                   |
-| **Badges Earned** | [🏅 Week 1 Trivia Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9635-d49fa00793da/badges/17140064), [🏆 Level 1 Game Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9635-d49fa00793da/badges/17245038) |
-| **League Standing** | 7th – Silver League (1290 pts)                                                                                                                                    |
-| **Promotion Status** | 🟢 Gold League Promo                                                                                                                                              |
+| Metric                      | Value                                                                                                                                                                                                                                                                                             |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Arcade Username             | `ciril`                                                                                                                                                                                                                                                                                           |
+| **---COMPLETED---** |                                                                                                                                                                                                                                                                                                   |
+| Arcade Games lvl 1          | ✅ **Finished (12/12 Labs)** 🎉                                                                                                                                                                                                                                                                   |
+| Trivia Week 1               | ✅ **Finished (4/4 Labs)** 🎉                                                                                                                                                                                                                                                                     |
+| Trivia Week 2               | ✅ **Finished (3/3 Labs)** 🎉                                                                                                                                                                                                                                                                     |
+| **---IN PROGRESS---** |
+|
+| **---OVERALL---** |                                                                                                                                                                                                                                                                                                   |
+| Badges Earned               | [🏅 Week 1 Trivia Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9635-d49fa00793da/badges/17140064), [🏆 Level 1 Game Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9635-d49fa00793da/badges/17245038), [🏅 Week 2 Trivia Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9635-d49fa00793da/badges/17274275) |
+| League Standing             | 7th – Silver League (1290 pts)                                                                                                                                                                                                                                                                    |
+| Promotion Status            | 🟢 Gold League Promo                                                                                                                                                                                                                                                                              |
 
 > ✅ This summary will be updated each week with new XP, rank, and badge status.
