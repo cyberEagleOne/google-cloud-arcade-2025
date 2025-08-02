@@ -58,7 +58,7 @@ This lab was a huge "level up" for my understanding of logging. Before, I saw lo
 | Arcade Games lvl 1       | ✅ **Finished (12/12 Labs)** 🎉 |
 | Trivia Week 1       | ✅ **Finished (4/4 Labs)** 🎉 |
 | **---IN PROGRESS---** |                        |
-| Trivia Week 2       | ✅ Completed (1/4 Labs)  |
+| Trivia Week 2       | ✅ Completed (1/3 Labs)  |
 | Global Trivia Week 2 Rank        | **#9871**                 |
 | Global Trivia Week 2 XP         | **22,799,248 XP**       |
 | **---OVERALL---**    |                        |
