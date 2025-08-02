@@ -59,7 +59,7 @@ This lab was incredibly powerful. It showed me how to go beyond just passively l
 | Arcade Games lvl 1          | ✅ **Finished (12/12 Labs)** 🎉                                                                                                                                   |
 | Trivia Week 1               | ✅ **Finished (4/4 Labs)** 🎉                                                                                                                                     |
 | **---IN PROGRESS---** |                                                                                                                                                                   |
-| Trivia Week 2               | ✅ Completed (2/4 Labs)                                                                                                                                           |
+| Trivia Week 2               | ✅ Completed (2/3 Labs)                                                                                                                                           |
 | Global Trivia Week 2 Rank   | **#8798** |
 | Global Trivia Week 2 XP     | **48,483,791 XP** |
 | **---OVERALL---** |                                                                                                                                                                   |
