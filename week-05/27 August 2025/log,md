@@ -1,0 +1,70 @@
+## 📅 August 27, 2025
+
+---
+
+### 🧩 Project / Lab Title:
+**Create a Secure Data Lake on Cloud Storage: Challenge Lab**
+
+📆 Date Completed:  
+**August 27, 2025**
+
+🔍 Objective:  
+To apply and integrate the knowledge of Cloud IAM, Cloud Storage, and Dataplex in a hands-on scenario without step-by-step instructions. The goal was to build a secure and well-governed data lake structure based on a set of requirements, proving my ability to solve a real-world problem.
+
+🔧 Tools/Services Used:
+- Cloud IAM
+- Cloud Storage (including Bucket Lock)
+- Dataplex
+- Google Cloud Console
+
+🧠 What I Did:
+- This was a **Challenge Lab**, so I was given a scenario and a list of objectives to achieve on my own.
+- I translated the requirements into a series of actions:
+  1.  **Storage:** Created multiple Cloud Storage buckets to represent different stages of a data lake (e.g., for raw and processed data).
+  2.  **Security & Compliance:** Applied a **retention policy** (Bucket Lock) to the raw data bucket to meet a specified data immutability requirement.
+  3.  **Access Control:** Configured fine-grained **IAM policies** to enforce the Principle of Least Privilege, granting different levels of access (e.g., write vs. read-only) to different users/roles for the respective buckets.
+  4.  **Governance:** Set up a **Dataplex Lake** and created distinct **Zones** (e.g., `raw-zone`, `curated-zone`) within it.
+  5.  **Integration:** **Attached the Cloud Storage buckets as Assets** to their corresponding zones in Dataplex, bringing the entire infrastructure under a unified data governance fabric.
+- I independently troubleshot my configurations until all tasks were successfully validated by the automated scoring system.
+
+🛡️ GRC / Compliance Relevance:  
+✅ Critical  
+This lab is the ultimate test of applying GRC principles in practice.
+- **Implementation of Controls:** Instead of just learning about individual controls, this lab required me to implement a cohesive *system of controls* (access, retention, governance) to meet a specific compliance scenario.
+- **Security Posture Validation:** The challenge lab format simulates a real-world audit or validation test. The automated checker acts as a compliance officer, verifying that the deployed infrastructure correctly enforces the required security posture.
+- **End-to-End Data Governance:** The task involved securing the entire data lifecycle within the lake—from raw data retention to governed access in a structured zone. This demonstrates a mature understanding of data governance.
+
+🚩 Risks Identified:  
+- **Misinterpretation of Requirements:** In a challenge lab, the main risk is misunderstanding the scenario's objectives, which can lead to building a solution that is functional but does not meet the specific security or compliance requirements.
+- **Integration Errors:** The challenge lies in making multiple services work together seamlessly. A small error in an IAM policy could prevent Dataplex from accessing an asset, causing the entire setup to fail validation.
+
+✅ What I Learned:
+- This lab solidified my ability to translate a set of business and security requirements into a functional cloud architecture.
+- I gained practical experience in integrating **IAM**, **Cloud Storage retention policies**, and **Dataplex** to build a single, secure solution.
+- It significantly improved my problem-solving skills, as I had to rely on my own knowledge to diagnose and fix configuration issues without guidance.
+- It provided a powerful, hands-on validation of my ability to apply the Principle of Least Privilege and data governance concepts in a realistic context.
+
+💭 Reflection:  
+This challenge lab was the perfect capstone for the quest. It was a true test of whether I had actually absorbed the knowledge from the previous labs or was just following steps. Designing the solution from scratch based only on a set of goals felt like a genuine real-world task. It was incredibly rewarding to see the individual components—IAM, Storage, Dataplex—come together as a cohesive system and pass all the checks. This experience gave me a huge confidence boost in my ability to apply these critical data security principles in practice.
+
+---
+
+## 🏆 Leaderboard Status (as of August 27, 2025)
+
+| Metric                              | Value                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Arcade Username                     | `ciril`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **---COMPLETED---** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Arcade Games lvl 1 (Infrastructure) | ✅ **Finished (12/12 Labs)** 🎉                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Trivia Week 1 (July)                | ✅ **Finished (4/4 Labs)** 🎉                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Trivia Week 2 (July)                | ✅ **Finished (3/3 Labs)** 🎉                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Trivia Week 1 (August)              | ✅ **Finished (4/4 Labs)** 🎉                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Secure Data Lake Quest              | ✅ **Finished (4/4 Labs)** 🎉                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **---IN PROGRESS---** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Arcade Games lvl 1 (App Design)     | ✅ Completed (1/12 Labs)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **---OVERALL---** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Badges Earned                       | [🏅 Week 1 Trivia Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9835-d49fa00793da/badges/17140064), [🏆 Level 1 Game Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9835-d49fa00793da/badges/17245038), [🏅 Week 2 Trivia Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9835-d49fa00793da/badges/17274275), [🏅 August Week 1 Trivia Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9835-d49fa00793da/badges/17423679), [🏆 Create a Secure Data Lake Badge](https://www.cloudskillsboost.google/public_profiles/c8fd48a4-987d-4216-9635-d49fa00793da/badges/17842886) |
+| League Standing                     | 3rd – Silver League (540 pts)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Promotion Status                    | 🟢 Gold League Promo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+*(Jangan lupa berikan link untuk "Create a Secure Data Lake Badge" jika sudah tersedia!)*
